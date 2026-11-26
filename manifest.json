@@ -1,13 +1,14 @@
+
 {
-  "background_color": "#fce7f3",
+  "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "devilgoud09-netizen.github",
+  "name": "DHVG Daily Finance",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/dhvg-daily-finances/",
   "short_name": "DHVG Finance",
-  "start_url": "/",
-  "theme_color": "#c084fc",
-  "id": "dhvg-daily-finance",
-  "description": "DHVG Daily Finance - Customer, Loan and Daily Collection Management App"
+  "start_url": "/dhvg-daily-finances/",
+  "theme_color": "#6c3ce9",
+  "id": "/dhvg-daily-finances/",
+  "description": "Daily Finance Management, Collections and Customer Tracking"
 }
