@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "DHVG Daily Finance",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "DHVG Finance",
+  "start_url": "/",
+  "theme_color": "#6c3ce9",
+  "id": "dhvg-daily-finance",
+  "description": "Daily Finance Management, Collections and Customer Tracking"
+}
